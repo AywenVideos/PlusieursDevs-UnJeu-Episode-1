@@ -20,4 +20,4 @@ Thème : Créer un jeu ultra random - [Vidéo YouTube](https://www.youtube.com/w
 *Si Windows SmartScreen bloque l'exécution ➜ "informations complémentaires" et "Exécuter"*
 
 ## License:
-This project is licensed under the Unlicense - see the LICENSE file for details.
+This project is under the Unlicense - see the LICENSE file for details.
